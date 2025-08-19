@@ -78,21 +78,21 @@ npm start
 
 ### 🔹 Landing Page
 
-![Landing Page](assets/landing.png)
+![Landing Page](assets/landing.jpg)
 
 ### 🔹 Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.jpg)
 
 ### 🔹 Vendor Portal
 
-![Vendor Portal](assets/vendor.png)
+![Vendor Portal](assets/vendor.jpg)
 
 ---
 
 ## 📊 System Architecture
 
-![Architecture](assets/architecture.png) <!-- draw or export a diagram -->
+![Architecture](assets/architecture.jpg) <!-- draw or export a diagram -->
 
 ---
 
