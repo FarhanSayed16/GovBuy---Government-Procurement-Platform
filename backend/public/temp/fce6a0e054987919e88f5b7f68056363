@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "6804df9d4c1426fd5a540e4c"
+  },
+  "user": {
+    "$oid": "6804de7ae668870ca13c52bb"
+  },
+  "specialization": [
+    "dresses"
+  ],
+  "rating": 0,
+  "completedOrders": 0,
+  "availability": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68058e48a7d037876ad767fe"
+  },
+  "user": {
+    "$oid": "68058e19a7d037876ad767e9"
+  },
+  "specialization": [
+    "suits"
+  ],
+  "rating": 0,
+  "completedOrders": 0,
+  "availability": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68058e8cb5404a383bf9611c"
+  },
+  "user": {
+    "$oid": "68058e19a7d037876ad767e9"
+  },
+  "specialization": [
+    "pants"
+  ],
+  "rating": 5,
+  "completedOrders": 2,
+  "availability": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68058eb5b5404a383bf9611d"
+  },
+  "user": {
+    "$oid": "68058e19a7d037876ad767e9"
+  },
+  "specialization": [
+    "suit",
+    "pants"
+  ],
+  "rating": 4,
+  "completedOrders": 7,
+  "availability": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68058ed5b5404a383bf9611e"
+  },
+  "user": {
+    "$oid": "6804de7ae668870ca13c52bb"
+  },
+  "specialization": [
+    "dresses,shirts"
+  ],
+  "rating": 4,
+  "completedOrders": 9,
+  "availability": true,
+  "__v": 0
+}]
