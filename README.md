@@ -105,10 +105,4 @@ This project is licensed under the **MIT License**.
 ### 👨‍💻 Authors
 
 * **Farhan Sayed**
-
-```
-
----
-
-Would you like me to also make a **polished version with badges (Tech stack, License, Status, etc.)** so it looks more professional on GitHub?
-```
+* **Abid Shakih**
