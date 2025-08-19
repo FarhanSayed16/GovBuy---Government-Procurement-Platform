@@ -1,25 +1,42 @@
-# GovBuy - E-Procurement Platform
+# 🌐 GovBuy - Government E-Procurement Platform
+
+![GovBuy Banner](assets/banner.png) <!-- Replace with your project banner -->
+
+<p align="center">
+  <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
+  <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/network/members"><img src="https://img.shields.io/github/forks/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+---
 
 ## 📌 Overview
-GovBuy is a full-fledged **e-procurement system** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
-It enables **transparent, efficient, and secure procurement processes** by simplifying vendor registration, bidding, contract management, and government purchases.
+**GovBuy** is a **full-fledged MERN-based e-procurement system** designed to ensure transparency, efficiency, and security in government procurement.  
+The platform allows **vendor registration, tender creation, bidding, contract management, and analytics** all in one place.
+
+---
 
 ## 🚀 Features
-- 🔐 **Vendor Registration & Authentication**
-- 📑 **Tender Creation & Management**
-- 💰 **Bidding & Evaluation System**
-- 📊 **Dashboard for Buyers & Vendors**
-- 📜 **Contract Management**
-- 🔍 **Search & Filtering for Tenders**
-- 📈 **Analytics & Reports**
-- 🛡 **Secure Login & Role-Based Access**
+- 🔐 Secure **Vendor Registration & Authentication**
+- 📝 **Tender Creation & Publishing** by government departments
+- 💰 Transparent **Bidding & Evaluation System**
+- 📊 **Admin & Vendor Dashboards**
+- 📑 **Contract Management**
+- 🔍 Search & filter tenders
+- 📈 Reports & Analytics
+- 🌍 Scalable and role-based access
+
+---
 
 ## 🏗 Tech Stack
-- **Frontend:** React.js, TailwindCSS / Material UI  
+- **Frontend:** React.js, TailwindCSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose ODM)  
 - **Authentication:** JWT / OAuth2  
-- **Hosting:** (Planned: Vercel/Netlify for frontend, Render/Heroku for backend)  
+- **Deployment:** Vercel (frontend), Render/Heroku (backend)
+
+---
 
 ## 📂 Project Structure
 ```
@@ -30,79 +47,79 @@ GovBuy/
 │── models/        # MongoDB models
 │── routes/        # API routes
 │── controllers/   # Business logic
-│── config/        # Database & environment configs
+│── config/        # Database & env configs
+│── assets/        # Images/screenshots for README
 │── README.md
 
 ````
 
+---
+
 ## ⚙️ Installation & Setup
-### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/GovBuy.git
+# Clone the repository
+git clone https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform.git
 cd GovBuy
+
+# Setup backend
+cd server
+npm install
+npm run dev
+
+# Setup frontend
+cd client
+npm install
+npm start
 ````
 
-### 2. Install dependencies
+---
 
-* **Client**
+## 📸 Screenshots
 
-```bash
-cd client
-npm install
-```
+### 🔹 Landing Page
 
-* **Server**
+![Landing Page](assets/landing.png)
 
-```bash
-cd server
-npm install
-```
+### 🔹 Dashboard
 
-### 3. Configure environment variables
+![Dashboard](assets/dashboard.png)
 
-Create a `.env` file in `server/`:
+### 🔹 Vendor Portal
 
-```env
-PORT=5000
-MONGO_URI=your-mongodb-connection-string
-JWT_SECRET=your-secret-key
-```
+![Vendor Portal](assets/vendor.png)
 
-### 4. Run the project
+---
 
-* Start backend:
+## 📊 System Architecture
 
-```bash
-cd server
-npm run dev
-```
+![Architecture](assets/architecture.png) <!-- draw or export a diagram -->
 
-* Start frontend:
+---
 
-```bash
-cd client
-npm start
-```
+## 🚀 Future Enhancements
 
-## 📊 Future Enhancements
+* 🔗 Payment Gateway Integration
+* 🤖 AI-powered tender analysis
+* ⛓ Blockchain for transparency
+* 📱 Mobile App (React Native/Flutter)
+* 🌐 Multi-language support
 
-* Integration with **payment gateways**
-* **AI-driven tender analysis**
-* **Blockchain for procurement transparency**
-* Multi-language support
-* Mobile application
+---
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss.
+
+---
+
+## 👨‍💻 Authors
+
+* **Farhan Sayed**
+
+---
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
----
-
-### 👨‍💻 Authors
-
-* **Farhan Sayed**
-* **Abid Shakih**
+```
