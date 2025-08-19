@@ -1,6 +1,6 @@
 # 🌐 GovBuy - Government E-Procurement Platform
 
-![GovBuy Banner](assets/banner.png) <!-- Replace with your project banner -->
+![GovBuy Banner](assets/banner.jpg) <!-- Replace with your project banner -->
 
 <p align="center">
   <a href="https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platform/stargazers"><img src="https://img.shields.io/github/stars/FarhanSayed16/GovBuy---Government-Procurement-Platform?style=social" /></a>
