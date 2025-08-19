@@ -62,12 +62,12 @@ git clone https://github.com/FarhanSayed16/GovBuy---Government-Procurement-Platf
 cd GovBuy
 
 # Setup backend
-cd server
+cd backed
 npm install
 npm run dev
 
 # Setup frontend
-cd client
+cd frontend
 npm install
 npm start
 ````
